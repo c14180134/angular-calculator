@@ -12,6 +12,9 @@ export class AppComponent  {
   dis(val){
     this.hasil=this.hasil+val;    
   }
+  solve(){
+    
+  }
 }
 
 
